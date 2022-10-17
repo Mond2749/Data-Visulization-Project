@@ -1,0 +1,19 @@
+*{
+    padding:0px;
+    margin:0px;
+  }
+
+#main{
+    padding-top: 30px;
+    margin-top: 0px;
+    position: absolute;
+    width: 500px;
+    left: 300px;
+}
+
+#side_manu{
+    top: 50px;
+    float: left;
+    width: 300px;
+}
+
